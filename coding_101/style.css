@@ -1,0 +1,29 @@
+body {
+  background-color: #F87F69;
+  color: white;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+h1{
+ color: #990000;
+}
+
+p{
+  text-align: left;
+  width:0 auto;
+  display: inline-block;
+  margin: 100px auto;
+}
+
+ul{
+  text-align: justify;
+}
+
+img {
+  width: 500px;
+  display: block;
+  margin: 100px auto;
+}
